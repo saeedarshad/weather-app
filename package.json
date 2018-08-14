@@ -1,0 +1,19 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-async-errors": "^3.0.0",
+    "fahrenheit-to-celsius": "^1.0.0",
+    "hbs": "^4.0.1",
+    "pug": "^2.0.3",
+    "request": "^2.88.0"
+  }
+}
